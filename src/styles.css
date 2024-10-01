@@ -42,6 +42,7 @@
   width: 500px;
   border-radius: 10px;
   background: white;
+  max-height: 100%;
 
 }
 
